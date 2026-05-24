@@ -25,7 +25,7 @@ DEMO
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vulnscope.git
+git clone https://github.com/njengamoses/vulnscope.git
 cd vulnscope
 python3 -m venv venv
 source venv/bin/activate
