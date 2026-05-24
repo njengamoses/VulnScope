@@ -1,0 +1,14 @@
+[
+  {
+    "name": "login page",
+    "description": "authentication endpoint"
+  },
+  {
+    "name": "search feature",
+    "description": "user input field"
+  },
+  {
+    "name": "security headers",
+    "description": "missing headers configuration"
+  }
+]
