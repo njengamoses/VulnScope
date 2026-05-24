@@ -18,6 +18,9 @@ It is a beginner DevSecOps project built to practice:
 - Export report to file
 
 ---
+DEMO
+![VulnScope Demo](demo.png)
+---
 
 ## Installation
 
